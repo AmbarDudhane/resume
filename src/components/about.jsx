@@ -32,16 +32,16 @@ const About = () => {
                   <ul>
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
-                      <strong>Birthday:</strong> <span>23 March 1994</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-chevron-right" />{" "}
                       <strong>Website:</strong>{" "}
                       <span>https://ambar-portfolio.herokuapp.com/</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
                       <strong>Phone:</strong> <span>+1 (682) 283 5495</span>
+                    </li>
+                    <li>
+                      <i className="bi bi-chevron-right" />{" "}
+                      <strong>City:</strong> <span>Arlington, TX</span>
                     </li>
                   </ul>
                 </div>
@@ -55,10 +55,6 @@ const About = () => {
                       <i className="bi bi-chevron-right" />{" "}
                       <strong>Email:</strong>{" "}
                       <span>ambar.dudhane@outlook.com</span>
-                    </li>
-                    <li>
-                      <i className="bi bi-chevron-right" />{" "}
-                      <strong>City:</strong> <span>Arlington, TX</span>
                     </li>
                   </ul>
                 </div>

@@ -24,6 +24,9 @@ const Facts = () => {
               <div className="progress">
                 <span className="skill">SourceTree</span>
               </div>
+              <div className="progress">
+                <span className="skill">GitHub Desktop</span>
+              </div>
             </div>
             <div className="col-lg-6">
               <div className="progress">

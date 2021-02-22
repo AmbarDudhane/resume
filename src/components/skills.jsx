@@ -39,6 +39,9 @@ const Skills = () => {
               <div className="progress">
                 <span className="skill">Angular</span>
               </div>
+              <div className="progress">
+                <span className="skill">React</span>
+              </div>
             </div>
           </div>
         </div>

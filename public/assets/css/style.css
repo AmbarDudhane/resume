@@ -480,6 +480,7 @@ section {
   display: block;
   background: none;
   border-radius: 0;
+  font-size: 15px;
 }
 
 .skills .progress .skill {
