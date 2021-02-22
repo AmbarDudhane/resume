@@ -6,10 +6,10 @@ const About = () => {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Enthusiastic full stack developer offering experience in Angular,
-              Spring-Boot, REST and Oracle SQL in the reinsurance domain as well
-              as proficiency in multiple programming languages, application
-              development, and client presentations.
+              Enthusiastic full stack developer offering 3 years of experience
+              in React, Angular, Spring-Boot, REST and Oracle SQL in the
+              reinsurance domain as well as proficiency in multiple programming
+              languages, application development, and client presentations.
             </p>
           </div>
           <div className="row">
@@ -36,7 +36,8 @@ const About = () => {
                     </li>
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
-                      <strong>Website:</strong> <span>www.example.com</span>
+                      <strong>Website:</strong>{" "}
+                      <span>https://ambar-portfolio.herokuapp.com/m</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
