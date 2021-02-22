@@ -7,29 +7,27 @@ const Footer = () => {
           <h3>Ambar Dudhane</h3>
 
           <div className="social-links">
-            <a href="#" className="twitter">
-              <i className="bx bxl-twitter" />
-            </a>
-            <a href="#" className="facebook">
-              <i className="bx bxl-facebook" />
-            </a>
-            <a href="#" className="instagram">
+            <a
+              href="https://www.instagram.com/ambardudhane/"
+              className="instagram"
+            >
               <i className="bx bxl-instagram" />
             </a>
-            <a href="#" className="google-plus">
-              <i className="bx bxl-skype" />
-            </a>
-            <a href="#" className="linkedin">
+
+            <a
+              href="https://www.linkedin.com/in/ambardudhane/"
+              className="linkedin"
+            >
               <i className="bx bxl-linkedin" />
             </a>
           </div>
-          <div className="copyright">
+          {/* <div className="copyright">
             © Copyright{" "}
             <strong>
               <span>MyResume</span>
             </strong>
             . All Rights Reserved
-          </div>
+          </div> */}
           <div className="credits">
             {/* All the links in the footer should remain intact. */}
             {/* You can delete the links only if you purchased the pro version. */}
