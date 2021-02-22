@@ -37,7 +37,7 @@ const About = () => {
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
                       <strong>Website:</strong>{" "}
-                      <span>https://ambar-portfolio.herokuapp.com/m</span>
+                      <span>https://ambar-portfolio.herokuapp.com/</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right" />{" "}
