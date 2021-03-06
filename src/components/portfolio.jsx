@@ -156,6 +156,23 @@ const Portfolio = () => {
                   </Card.Body>
                 </Accordion.Collapse>
               </Card>
+              <Card>
+                <Card.Header>
+                  <Accordion.Toggle as={Button} variant="link" eventKey="5">
+                    Portfolio App
+                  </Accordion.Toggle>
+                </Card.Header>
+                <Accordion.Collapse eventKey="5">
+                  <Card.Body>
+                    <ul>
+                      <li>
+                        Developed a Single Page Application (SPA) using react js
+                      </li>
+                      <li>Implemented email functionality using EmailJS</li>
+                    </ul>
+                  </Card.Body>
+                </Accordion.Collapse>
+              </Card>
             </Accordion>
           </div>
         </div>
