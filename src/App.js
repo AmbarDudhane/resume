@@ -5,11 +5,14 @@ import Header from "./components/header";
 import Hero from "./components/hero";
 import Main from "./components/main";
 import Footer from "./components/footer";
-
-const TRACKING_ID = "UA-194073116-1"; // YOUR_OWN_TRACKING_ID
-ReactGA.initialize(TRACKING_ID);
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    ReactGA.initialize("UA-194073116-1");
+    ReactGA.pageview("/");
+  }, []);
+
   return (
     <>
       <Header />
